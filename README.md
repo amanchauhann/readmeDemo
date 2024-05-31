@@ -59,6 +59,6 @@ npm run dev
 ![Edit on codepen](https://github.com/amanchauhann/readmeDemo/assets/44115421/2b72255d-f8ea-47de-8410-c63be5b08a14)
 
 
-
+## THANKS
 
 

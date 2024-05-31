@@ -6,6 +6,9 @@ Dashboard built on top of Shadcn for quick preview for all the stakeholders of
 
 It’s the perfect way to keep all stakeholders in the loop, ensuring everyone stays on the same page and aligned.
 
+1. [ Description. ](#desc)
+
+
 ## Features
 - This project is made in ```Next v14``` with [Shadcn](https://ui.shadcn.com/) UI library.
 - On the right, in the ```scrollarea``` you can find the required template.
@@ -44,7 +47,7 @@ Run the project with following command:
 ```bash
 npm run dev
 ```
-
+<a name="desc"></a>
 ## For stakeholders
 
 - To check how the modifications would look like consider clicking on "Edit on Codepen" on top-right of embedding and start editing.

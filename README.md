@@ -15,11 +15,14 @@ It’s the perfect way to keep all stakeholders in the loop, ensuring everyone s
 ## Features
 - This project is made in ```Next v14``` with [Shadcn](https://ui.shadcn.com/) UI library.
 - On the right, in the ```scrollarea``` you can find the required template.
-[picture of right]
+![Screenshot_31-5-2024_125747_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/94ca3166-19c6-4126-8a2a-70b15f498c18)
+
 - Upon navigating inside, different versions of the templates would be displayed that is been wither currently in use or have been in the past.
-[picture of center]
+![Screenshot_31-5-2024_125849_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/ea8d2c22-029f-4d45-b59e-374e30ad4527)
+
 - On the left, in the ```scrollarea``` you can find the list of available versions of the template.
-[picture of left]
+![Screenshot_31-5-2024_125950_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/d3b9038a-0859-4e04-a2ae-6f58a88c9b1e)
+
 
 
 
@@ -55,7 +58,8 @@ npm run dev
 
 - To check how the modifications would look like consider clicking on "Edit on Codepen" on top-right of embedding and start editing.
 
-[picture of edit on codepen]
+![Edit on codepen](https://github.com/amanchauhann/readmeDemo/assets/44115421/2b72255d-f8ea-47de-8410-c63be5b08a14)
+
 
 - The updated code along with preview can be sent across afterwards.
 

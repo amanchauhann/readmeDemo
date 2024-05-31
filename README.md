@@ -7,7 +7,9 @@ Dashboard built on top of Shadcn for quick preview for all the stakeholders of
 It’s the perfect way to keep all stakeholders in the loop, ensuring everyone stays on the same page and aligned.
 
 ## Table of Contents
-1. [ Features. ](#for-stakeholders)
+1. [ Features. ](#features)
+2. [ Installation. ](#installation)
+2. [ For stakeholders. ](#for-stakeholders)
 
 
 ## Features

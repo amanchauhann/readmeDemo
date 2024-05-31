@@ -15,14 +15,10 @@ It’s the perfect way to keep all stakeholders in the loop, ensuring everyone s
 ## Features
 - This project is made in ```Next v14``` with [Shadcn](https://ui.shadcn.com/) UI library.
 - On the right, in the ```scrollarea``` you can find the required template.
-![Screenshot_31-5-2024_1319_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/25ea1585-89d2-4ee5-926e-74fd0f00c517)
-
 
 - Upon navigating inside, different versions of the templates would be displayed that is been wither currently in use or have been in the past.
-![Screenshot_31-5-2024_125849_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/ea8d2c22-029f-4d45-b59e-374e30ad4527)
 
 - On the left, in the ```scrollarea``` you can find the list of available versions of the template.
-![Screenshot_31-5-2024_125950_localhost](https://github.com/amanchauhann/readmeDemo/assets/44115421/d3b9038a-0859-4e04-a2ae-6f58a88c9b1e)
 
 
 

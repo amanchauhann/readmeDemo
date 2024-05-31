@@ -53,7 +53,7 @@ npm run dev
 <a name="desc"></a>
 ## For stakeholders
 
-- To check how the modifications would look like consider clicking on "Edit on Codepen" on top-right of embedding and start editing.
+- To check how the modifications would look like click on "Edit on Codepen" to get redirected on codepen on top-right of embedding and start editing.
 
 ![Edit on codepen](https://github.com/amanchauhann/readmeDemo/assets/44115421/2b72255d-f8ea-47de-8410-c63be5b08a14)
 

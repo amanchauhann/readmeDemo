@@ -9,7 +9,8 @@ It’s the perfect way to keep all stakeholders in the loop, ensuring everyone s
 ## Table of Contents
 1. [ Features. ](#features)
 2. [ Installation. ](#installation)
-2. [ For stakeholders. ](#for-stakeholders)
+3. [ For stakeholders. ](#for-stakeholders)
+4. [ Contribution. ](#contribution)
 
 
 ## Features
